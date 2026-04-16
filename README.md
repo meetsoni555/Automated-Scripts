@@ -26,7 +26,7 @@ You can get the entire project ready to go by executing the bundled installer sc
 Pull the code to your local machine:
 ```bash
 git clone https://github.com
-cd automated-yt-downloader
+cd AutomatedScripts
 
 ```
 
